@@ -1,9 +1,9 @@
 <!-- Typing Animation -->
 <h1 align="center">Hi 👋, I'm Akhil Tamgaonkar</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="" width="150" style="border-radius: 50%;" />
-</p>
+</p> -->
 
 <h3 align="center">💻 Java Developer | React Developer | Flutter Developer</h3>
 
