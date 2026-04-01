@@ -1,9 +1,9 @@
 <!-- Typing Animation -->
 <h1 align="center">Hi 👋, I'm Akhil Tamgaonkar</h1>
-<h3 align="center">💻 Java Developer | React Developer | Spring Boot Enthusiast</h3>
+<h3 align="center">💻 Java Developer | React Developer | Flutter Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;React+Developer;Spring+Boot+Learner;Full+Stack+Enthusiast&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;React+Developer;Flutter+Developer;Spring+Boot+Learner;Full+Stack+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
@@ -12,9 +12,10 @@
 
 - 🎓 B.Tech in CSE (AI & ML)  
 - 💼 Junior Java Developer at **ThinkQuotient**  
+- 📱 Flutter Developer Intern at **HATS**  
 - ⚙️ Strong in **Java, OOP, Spring & REST APIs**  
 - 🌐 Frontend experience with **React.js & Redux**  
-- 📱 Built mobile apps using **React Native**  
+- 📱 Built mobile apps using **React Native & Flutter**  
 - 🚀 Passionate about building scalable & real-world applications  
 
 ---
@@ -45,6 +46,7 @@
 
 ### 📱 Mobile  
 ![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
 
 ---
 
@@ -63,6 +65,14 @@
 - Developed Java applications using **OOP, Collections & Exception Handling**  
 - Worked on backend logic with **Spring Framework**  
 - Strengthened real-world problem-solving & coding practices  
+
+---
+
+### 🏢 Flutter Developer Intern — HATS *(Recent)*  
+- Developed cross-platform mobile applications using **Flutter**  
+- Built responsive UI components ensuring smooth user experience  
+- Integrated APIs and handled state management for mobile apps  
+- Worked on debugging, performance optimization & app deployment  
 
 ---
 
@@ -135,8 +145,8 @@
 
 ## 🎯 Current Focus  
 - 🚀 Mastering **Spring Boot & Backend Development**  
+- 📱 Building scalable apps with **Flutter**  
 - 🧠 Improving **DSA for interviews**  
-- 🌐 Building **Full Stack Projects**  
 
 ---
 
