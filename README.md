@@ -1,11 +1,11 @@
 <!-- Typing Animation -->
 <h1 align="center">Hi 👋, I'm Akhil Tamgaonkar</h1>
-<h3 align="center">💻 Java Developer | React Developer | Flutter Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;React+Developer;Flutter+Developer;Spring+Boot+Learner;Full+Stack+Enthusiast&center=true&width=500&height=45">
+  <img src="YOUR_IMAGE_URL" width="150" style="border-radius: 50%;" />
 </p>
 
+<h3 align="center">💻 Java Developer | React Developer | Flutter Developer</h3>
 ---
 
 ## 👨‍💻 About Me  
@@ -61,20 +61,21 @@
 
 ## 💼 Experience  
 
-### 🏢 Junior Java Developer — ThinkQuotient *(Aug 2025 – Present)*  
+### 🏢 Flutter Developer Intern — HATS *(Jan 2026 - Present)*  
+- Developed cross-platform mobile applications using **Flutter**  
+- Built responsive UI components ensuring smooth user experience  
+- Integrated APIs and handled state management for mobile apps  
+- Worked on debugging, performance optimization & app deployment
+
+---
+
+### 🏢 Junior Java Developer — ThinkQuotient *(Aug 2025 – Mar 2026)*  
 - Developed Java applications using **OOP, Collections & Exception Handling**  
 - Worked on backend logic with **Spring Framework**  
 - Strengthened real-world problem-solving & coding practices  
 
 ---
 
-### 🏢 Flutter Developer Intern — HATS *(Recent)*  
-- Developed cross-platform mobile applications using **Flutter**  
-- Built responsive UI components ensuring smooth user experience  
-- Integrated APIs and handled state management for mobile apps  
-- Worked on debugging, performance optimization & app deployment  
-
----
 
 ### 🏢 Software Developer Intern — Cognitix *(Jan 2025 – Jul 2025)*  
 - Built reusable **React.js components (↓25% duplication)**  
@@ -113,22 +114,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhil054&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil054&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil054&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
