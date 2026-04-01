@@ -2,11 +2,12 @@
 <h1 align="center">Hi 👋, I'm Akhil Tamgaonkar</h1>
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL" width="150" style="border-radius: 50%;" />
+  <img src="" width="150" style="border-radius: 50%;" />
 </p>
 
 <h3 align="center">💻 Java Developer | React Developer | Flutter Developer</h3>
----
+
+
 
 ## 👨‍💻 About Me  
 
