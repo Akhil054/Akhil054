@@ -12,7 +12,6 @@
 ## 👨‍💻 About Me  
 
 - 🎓 B.Tech in CSE (AI & ML)  
-- 💼 Junior Java Developer at **ThinkQuotient**  
 - 📱 Flutter Developer Intern at **HATS**  
 - ⚙️ Strong in **Java, OOP, Spring & REST APIs**  
 - 🌐 Frontend experience with **React.js & Redux**  
